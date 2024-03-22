@@ -1,7 +1,7 @@
 [![MasterHead](https://b1463816.smushcdn.com/1463816/wp-content/uploads/2015/04/banner-web-development.png?size=1080x353&lossy=2&strip=1&webp=1](https://b1463816.smushcdn.com/1463816/wp-content/uploads/2015/04/banner-web-development.png?size=1080x353&lossy=2&strip=1&webp=1))](https://gizework21.io)
 
 
-<h1 align="center">Hi 👋, I'm Gizework Marye</h1>
+<h1 align="center">Hi 👋, I'm Yohannes Mulat</h1>
 <h3 align="center">A passionate Fullstack developer From Ethiopia</h3>
 <img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc0dXN0OWIybmZ4cTV5d2lyZzE1MHc5ZTFyMjE2ZnhlajhvdWVpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN Stack, Flutter**
 
-- 📫 How to reach me **gizeworkmarye16@gmail.com**
+- 📫 How to reach me **yohannesmulat444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
